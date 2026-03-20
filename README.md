@@ -7,11 +7,17 @@ This project focuses on migrating and analyzing a relational database schema to 
 ## Scope of Work
 
 Extracted database schema from PostgreSQL using pg_dump
+
 Analyzed and improved schema design for better normalization and consistency
+
 Migrated the optimized schema to MySQL for structured data analysis
+
 Performed data validation using SQL queries to identify missing, duplicate, and inconsistent data
+
 Applied indexing strategies to improve query performance
+
 Implemented foreign key relationships to maintain data integrity
+
 Practiced database operations such as backup/restore and user access control
 
 ## Files Overview
